@@ -18,7 +18,9 @@ This program is about my data or my cv so I want everyone who wants this program
 
 [My full CV](https://github.com/halista11/my_project )
 
-![my picture](https://web.whatsapp.com/7428d944-aef5-4286-a84e-9ce83275997e)
+
+![Amazing](https://scontent.fmgq1-1.fna.fbcdn.net/v/t1.6435-9/240119190_995639244589222_4014181878549389482_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=hY_MnV8pb1gAX9g59yd&_nc_ht=scontent.fmgq1-1.fna&oh=77c30e9135442d8f81fb31bbfa1dd236&oe=617A5349)
 
 
-[my facebook]("https://www.facebook.com/")
+Name| Email| Adress|
+|Ahmed Nour|axmedhalista@gmail.com| Mogdisho|
