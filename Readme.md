@@ -18,4 +18,7 @@ This program is about my data or my cv so I want everyone who wants this program
 
 [My full CV](https://github.com/halista11/my_project )
 
-![Its Me](halista.jpeg)
+![my picture](https://web.whatsapp.com/7428d944-aef5-4286-a84e-9ce83275997e)
+
+
+[my facebook]("https://www.facebook.com/")
