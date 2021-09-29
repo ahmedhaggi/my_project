@@ -1,6 +1,6 @@
 
 body{
-  background-color: gray;
+  background-color: #f3eead;
 }
 #page{
   max-width: 1200px;
@@ -32,8 +32,8 @@ h4{
 }
 p{
   text-align: center;
-  color: red;
   font-size: 20px;
+
 
 }
 ul li{
@@ -58,5 +58,5 @@ ol li{
   padding-right: 30px;
   clear: both;
   position: relative;
-  color: #ed223d;
+  color:red;
 }
