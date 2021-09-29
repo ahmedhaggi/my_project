@@ -1,4 +1,4 @@
-ABOUT ME
+
 # My full CV
 
 
@@ -13,14 +13,35 @@ This program is about my data or my cv so I want everyone who wants this program
  * This is a great CV
  * Do these instractions
  * make sure steps
- * Edit this format
+ * You can edit this format
  * It's requirement to use this set up
 
-[My full CV](https://github.com/halista11/my_project )
+## [click here](https://github.com/halista11/my_project )
 
 
-![Amazing](https://scontent.fmgq1-1.fna.fbcdn.net/v/t1.6435-9/240119190_995639244589222_4014181878549389482_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=hY_MnV8pb1gAX9g59yd&_nc_ht=scontent.fmgq1-1.fna&oh=77c30e9135442d8f81fb31bbfa1dd236&oe=617A5349)
+![Amazing](https://pbs.twimg.com/profile_images/1437254724940701697/5FUUD2Py_400x400.jpg)
+
+## CONTACT US
+  *
+
+### [facebook](https://www.facebook.com/profile.php?id=100024294669482)
+  *
+### [instgram](https://www.instagram.com/i_am_halista/)
+  *
+### [Twitter](https://twitter.com/home)
+  *
+### [whatsApp](+252616770820)
 
 
-Name| Email| Adress|
-|Ahmed Nour|axmedhalista@gmail.com| Mogdisho|
+
+| Names| Emails| Adress|
+|----------|-----------------------|-------------|
+|Ahmed Nour|axmedhalista@gmail.com | Mogdisho|
+|Abdiladhif|abdiladhif101@gmail.com|Mogdisho|
+|Mohamed adani|moadaani47@gmail.com|Mogdisho|
+
+
+How do you see this preparation?.......
+I need your comment....
+
+## Thanks more for you visiting
