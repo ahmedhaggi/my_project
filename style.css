@@ -1,10 +1,6 @@
-*{
-  max-width: 1200px;
-  margin: auto;
-}
 
 body{
-  /* background-color: gray; */
+  background-color: gray;
 }
 #page{
   max-width: 1200px;
@@ -59,7 +55,8 @@ ol li{
   text-align: center;
   height: 50px;
   width: 100%;
-  /* clear: both; */
-  margin-top: 50px;
+  padding-right: 30px;
+  clear: both;
   position: relative;
+  color: #ed223d;
 }
